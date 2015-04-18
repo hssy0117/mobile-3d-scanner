@@ -1,0 +1,1 @@
+Project consists of creating a vertically moving platform with URG-04LX-UG01 laser, mounting it on top of a 8-way-move robot and scanning environment with it. Project executed as part of second degree studies on AGH Cracov University.
